@@ -18,11 +18,5 @@ export default {
 </template>
 
 <style scoped>
-h1 {
-    color: rgb(255, 0, 0);
-}
 
-template {
-    background-color: aqua;
-}
 </style>
