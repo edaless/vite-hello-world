@@ -3,7 +3,7 @@ export default {
     name: "AppTitle",
     data() {
         return {
-            saluto: "Ciao a tutti dal componente!"
+            saluto: "La mia prima app con Vite!"
         }
     }
 }
@@ -11,8 +11,7 @@ export default {
 
 <template>
 
-    <h1>Ciaoooo</h1>
-    <h1>Ciaoooo</h1>
+    <!-- <h1>Ciaoooo</h1> -->
     <h2>{{ saluto }}</h2>
 
 
