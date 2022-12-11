@@ -18,12 +18,5 @@ export default {
 </template>
 
 <style scoped>
-body {
-    background-color: aqua;
-}
 
-h2 {
-    background-color: brown;
-    width: 100vw;
-}
 </style>
