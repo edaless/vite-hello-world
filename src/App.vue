@@ -38,12 +38,18 @@ export default {
 
 <template>
 
+  <!-- <div class="container"> -->
   <AppTitle />
   <AppHero />
+  <!-- </div> -->
 
 
 </template>
 
 <style scoped>
-
+.container {
+  background-color: darkgreen;
+  width: 100vw;
+  height: 100vh;
+}
 </style>
